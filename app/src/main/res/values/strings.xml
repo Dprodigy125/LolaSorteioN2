@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LOLA_SORTEIO-N2</string>
+    <string name="n_o_possui_cadastro_cadastre_se">Não possui cadastro? Cadastre-se</string>
+    <string name="concorra_a_milhares_de_ingressos_para_assistir_os_shows_no_lollapalooza">Concorra a milhares de ingressos para assistir os shows no Lollapalooza</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
 </resources>
