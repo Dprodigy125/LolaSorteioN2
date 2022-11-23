@@ -11,5 +11,7 @@
     <string name="todoII">TODO</string>
     <string name="e_mail">E-mail</string>
     <string name="senha">Senha</string>
+    <string name="logo">logo</string>
+    <string name="background_lola">background_lola</string>
 
 </resources>
