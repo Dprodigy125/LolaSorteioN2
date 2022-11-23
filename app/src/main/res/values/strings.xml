@@ -7,6 +7,8 @@
     <string name="textinicial2">Faça o seu login para poder ficar por dentro dos nossos sorteios e promoções</string>
     <string name="textesqueceu">Esqueceu a senha?</string>
     <string name="nome">Nome Completo</string>
+    <string name="dados_pessoais">Dados Pessoais</string>
+    <string name="endereco_string">Endereço</string>
     l<string name="data">Data de Nascimento</string>
     <string name="tel">Telefone</string>
     <string name="cep">CEP</string>
@@ -20,6 +22,7 @@
     <string name="e_mail">E-mail</string>
     <string name="senha">Senha</string>
     <string name="logo">logo</string>
+    <string name="endereco">Endereço</string>
     <string name="background_lola">background_lola</string>
 
 </resources>
