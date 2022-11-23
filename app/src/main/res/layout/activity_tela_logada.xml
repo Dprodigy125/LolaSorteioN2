@@ -43,6 +43,32 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
+                android:text="Que bom ver você de novo!"
+                android:textAlignment="center"
+                android:textSize="40dp"
+                android:textStyle="bold"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/dadospessoais3"
+                style="@style/textoII"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:layout_marginTop="4dp"
+                android:text="Seus dados para o sorteio são:"
+                android:textAlignment="center"
+                android:textSize="22dp"
+                android:textStyle="italic"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/dadospessoais2"
+                style="@style/textoII"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:layout_marginTop="4dp"
                 android:text="@string/dados_pessoais"
                 tools:ignore="MissingConstraints" />
 
@@ -53,7 +79,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/e_mail"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -63,7 +89,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/nome"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -73,7 +99,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/data"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -83,7 +109,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/cpf"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -93,7 +119,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/endereco_string"
+                android:text="@string/endereco"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -103,7 +129,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/cep"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -113,7 +139,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/cidade"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -123,7 +149,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/estado"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -133,7 +159,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="4dp"
                 android:layout_marginTop="4dp"
-                android:text="@string/dados_pessoais"
+                android:text="@string/tel"
                 tools:ignore="MissingConstraints" />
 
         </LinearLayout>
