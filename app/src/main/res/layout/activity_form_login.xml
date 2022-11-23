@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background"
+    android:padding="10dp"
     tools:context=".FormLogin">
 
     <TextView
@@ -94,6 +95,7 @@
         android:layout_width="339dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
+        android:onClick="telaLogado"
         android:text="@string/entrar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
