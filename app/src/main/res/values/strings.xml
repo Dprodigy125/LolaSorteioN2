@@ -6,6 +6,14 @@
     <string name="textinicial1">Olá novamente!</string>
     <string name="textinicial2">Faça o seu login para poder ficar por dentro dos nossos sorteios e promoções</string>
     <string name="textesqueceu">Esqueceu a senha?</string>
+    <string name="nome">Nome Completo</string>
+    l<string name="data">Data de Nascimento</string>
+    <string name="tel">Telefone</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="dia">Qual dia você deseja ir no Lollapalooza?</string>
+    <string name="cpf">CPF</string>
     <string name="todo">TODO</string>
     <string name="todoI">TODO</string>
     <string name="todoII">TODO</string>
