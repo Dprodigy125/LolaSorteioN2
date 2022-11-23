@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+
 public class FormLogin extends AppCompatActivity {
 
     @Override
@@ -17,5 +18,11 @@ public class FormLogin extends AppCompatActivity {
     {
         Intent secondActivity = new Intent(this, Tela_Logada.class);
         startActivity(secondActivity);
+    }
+
+    public void telaCadastro(View view)
+    {
+        Intent secondActivity = new Intent(this, TelaCadastro.class);
+        startActivity((secondActivity));
     }
 }

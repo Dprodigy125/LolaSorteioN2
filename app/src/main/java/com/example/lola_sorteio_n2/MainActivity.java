@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -23,5 +24,11 @@ public class MainActivity extends AppCompatActivity {
     {
         Intent secondActivity = new Intent(this, FormLogin.class);
         startActivity(secondActivity);
+    }
+
+    public void telaCadastro(View view)
+    {
+        Intent secondActivity = new Intent(this, TelaCadastro.class);
+        startActivity((secondActivity));
     }
 }
